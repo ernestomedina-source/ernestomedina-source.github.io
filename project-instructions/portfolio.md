@@ -263,7 +263,7 @@ Your updated `<head>` tag should look like this:
 <br>
 
 ### ✅ **Check Your Work!**
-
+DONE
 - **Preview your site** using **Live Server**
 - Make sure the title appears in the browser tab.
 
